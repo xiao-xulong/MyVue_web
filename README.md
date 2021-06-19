@@ -1,4 +1,4 @@
-# supermall
+# MyVue_web
 
 ## Project setup
 ```
